@@ -4,6 +4,7 @@ Hi 👋 My name is Ali Elbermawy
 Software Engineer
 -----------------
 Third year Software engineering Student at [UTM](https://www.utm.my/)   
+*  Passionate about exploring cutting-edge technologies, with a keen interest in AI and aspiring towards full-stack development. Future projects include mobile app development using Flutter.
 *   🌍  I'm based in Malasiya
 *   ✉️  You can contact me at [ali.melbermawy@gmail.com](mailto:ali.melbermawy@gmail.com)### Skills 
 <p align="left">
