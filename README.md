@@ -3,9 +3,7 @@ Hi 👋 My name is Ali Elbermawy
 
 Software Engineer
 -----------------
-
-I have been learning software engineering for 2 years in UTM
-
+Third year Software engineering Student In [UTM](https://www.utm.my/)   
 *   🌍  I'm based in Malasiya
 *   ✉️  You can contact me at [ali.melbermawy@gmail.com](mailto:ali.melbermawy@gmail.com)### Skills 
 <p align="left">
