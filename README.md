@@ -11,14 +11,6 @@ I build AI-powered software systems that connect LLMs to real tools, data, and w
 
 ### Core Technologies
 
-**AI Engineering:** Python, LangGraph, LangChain, MCP, RAG, AWS Bedrock, Ollama
-
-**Backend & Data:** FastAPI, PostgreSQL, pgvector, Redis, REST APIs
-
-**Infrastructure:** Docker, Linux, Nginx, n8n, cloud deployments
-
-**Application Development:** TypeScript, JavaScript, React, Next.js, Java, Spring Boot
-
 ### 🤖 AI Engineering & Backend
 
 <div align="center">
