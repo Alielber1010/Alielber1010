@@ -1,7 +1,13 @@
+<img width="2000" height="400" alt="GitHub_Banner" src="https://github.com/user-attachments/assets/9319ba1e-2547-41b5-aee8-731214899d95" />
 # Ali Elbermawy
-### AI Engineer | Agentic Systems · MCP · RAG · Automation
+### AI Engineer | Software Engineer | Agentic Systems · MCP · RAG · Automation · 
 
-I build AI-powered software systems that connect LLMs to real tools, data, and workflows — from multi-agent orchestration to production-oriented applications and backend infrastructure.
+### Who AM I
+I am a Comp-Sci/Software Engineer graduated at Universiti Teknologi Malaysia (2022-2026) 
+I enjoy building end-to-end projects, from market research to system requirements and design, all the way to Deployment and scaling. 
+
+I have belt AI-powered software systems that connect LLMs to real tools, data, and workflows — from multi-agent orchestration to production-oriented applications and backend infrastructure.
+
 
 - **Focus:** Agentic AI, MCP integrations, RAG, workflow automation, and backend engineering
 - **Currently building:** AI document automation, SaaS products, and deployed software systems
