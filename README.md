@@ -10,6 +10,7 @@ I enjoy building end-to-end projects, from market research to system requirement
 
 I have belt AI-powered software systems that connect LLMs to real tools, data, and workflows — from multi-agent orchestration to production-oriented applications and backend infrastructure.
 
+<img width="1920" height="1080" alt="GitHub_GIF" src="https://github.com/user-attachments/assets/dcfd30b3-0eb5-452d-ab96-550534ea5de1" />
 
 - **Focus:** Agentic AI, MCP integrations, RAG, workflow automation, and backend engineering
 - **Currently building:** AI document automation, SaaS products, and deployed software systems
