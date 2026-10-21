@@ -5,7 +5,7 @@
 ### AI Engineer | Software Engineer | Agentic Systems · MCP · RAG · Automation 
 
 ### Who AM I
-I am a Comp-Sci/Software Engineer graduated at Universiti Teknologi Malaysia (2022-2026) 
+I am a Comp-Sci/Software Engineer graduated at Universiti Teknologi Malaysia (2022-2026) /n
 I enjoy building end-to-end projects, from market research to system requirements and design, all the way to Deployment and scaling. 
 
 I have belt AI-powered software systems that connect LLMs to real tools, data, and workflows — from multi-agent orchestration to production-oriented applications and backend infrastructure.
