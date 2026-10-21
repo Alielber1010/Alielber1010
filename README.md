@@ -1,6 +1,8 @@
 <img width="2000" height="400" alt="GitHub_Banner" src="https://github.com/user-attachments/assets/9319ba1e-2547-41b5-aee8-731214899d95" />
+
 # Ali Elbermawy
-### AI Engineer | Software Engineer | Agentic Systems · MCP · RAG · Automation · 
+
+### AI Engineer | Software Engineer | Agentic Systems · MCP · RAG · Automation 
 
 ### Who AM I
 I am a Comp-Sci/Software Engineer graduated at Universiti Teknologi Malaysia (2022-2026) 
