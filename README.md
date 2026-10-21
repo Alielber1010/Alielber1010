@@ -7,7 +7,7 @@
 ### Who AM I
 I am a Comp-Sci/Software Engineer graduated at Universiti Teknologi Malaysia (2022-2026)
 
-I enjoy building end-to-end projects, from market research to system requirements and design, all the way to Deployment and scaling. 
+I enjoy building end-to-end projects, from Market Research and Pain discovery to System Requirements (SRS) and Design SDS, all the way to Deployment and scaling. 
 
 I have belt AI-powered software systems that connect LLMs to real tools, data, and workflows — from multi-agent orchestration to production-oriented applications and backend infrastructure.
 
